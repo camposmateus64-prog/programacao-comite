@@ -13,4 +13,5 @@ dias = meses * 365
 print("sua idade em meses é ", meses, "e em dias " , dias)
 
 nota1 = float(input("informe a primeira nota ->"))
-noat2 = float(input("informe a sengunda nota ->"))
+nota2 = float(input("informe a sengunda nota ->"))
+nota3 = float(input("imforme a terceira nota ->"))
