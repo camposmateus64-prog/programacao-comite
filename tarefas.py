@@ -15,3 +15,5 @@ print("sua idade em meses é ", meses, "e em dias " , dias)
 nota1 = float(input("informe a primeira nota ->"))
 nota2 = float(input("informe a sengunda nota ->"))
 nota3 = float(input("imforme a terceira nota ->"))
+
+print("a media e ->, (nota1 + nota2 + nota3)/ 3")
